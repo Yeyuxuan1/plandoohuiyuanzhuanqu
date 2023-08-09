@@ -22,7 +22,7 @@ const Footer = ({ siteInfo }) => {
                 © {`${copyrightDate}`}
             </div>
 
-            <div className='text-xs font-serif'>Powered By <a href='https://github.com/tangly1024/NotionNext' className='underline text-gray-500 dark:text-gray-300'>NotionNext</a></div>
+            <div className='text-xs font-serif'>Powered By <a href='https://inky-pullover-cfb.notion.site/c60d46307c6e49f3af820f0a76769113?pvs=4' className='underline text-gray-500 dark:text-gray-300'>DGTL数字技术</a></div>
 
             {BLOG.BEI_AN && <><i className='fas fa-shield-alt' /> <a href='https://beian.miit.gov.cn/' className='mr-2'>{BLOG.BEI_AN}</a><br /></>}
 
